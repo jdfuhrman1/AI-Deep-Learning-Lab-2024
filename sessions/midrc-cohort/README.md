@@ -21,12 +21,12 @@ The Medical Imaging Data and Resource Center (MIDRC) provides tools to help rese
 [Presentation](link)
 
 ### 2. Cohort Building in the MIDRC Data Commons and the MIDRC Biomedical Imaging Hub (Meyer)
+For the best experience and to save time, please create an account with the [MIDRC Data Portal](https://data.midrc.org/) by following Steps 1-4 at [here](https://data.midrc.org/dashboard/Public/documentation/Gen3_MIDRC_GetStarted.pdf). Be sure to remember where you save your API key file.  If you have questions/issues with this, our aides can assist you at the start of the session.
 
 [Presentation](https://docs.google.com/presentation/d/1cMKyl-QWa2oM9HFnr0F7D83JaPx74GyFErz7O-gJjas/edit?usp=sharing)
 
 [Notebook](https://github.com/RSNA/AI-Deep-Learning-Lab-2024/blob/main/sessions/midrc-cohort/MIDRC_Cohort_Building_DLL_RSNA_2024.ipynb)
 
 ### 3. MIDRC Stratified Sampling Tool (Fuhrman)
-
-[Presentation](link)
+The third part of this session is an interactive overview of the MIDRC Stratified Sampling Tool.  Currently, this tool is run as a graphical interface in Python; if you have experience working with virtual environments (e.g., using Conda), then feel free to clone or download the current version [here](https://github.com/MIDRC/Generalized_Stratified_Sampling) and follow along with the overview (or use your own data!).
 
